@@ -9,4 +9,4 @@ Before starting the game, users are presented with a 3-by-3 matrix, where each o
 ### Executing the program
 
 * Copy and paste the entire code to your python project file. Then run the file.
-* See more details and screenshots on https://happyliving448.wordpress.com/2023/05/30/python-projects-series-3-tic-tac-toe/
+* See more details and screenshots [here](https://happyliving448.wordpress.com/2023/05/30/python-projects-series-3-tic-tac-toe/)
